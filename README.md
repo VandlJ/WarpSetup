@@ -28,6 +28,12 @@ git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-$
 ```
 
 Open your `.zshrc` file with a text editor (nvim, nano, etc.) and set the theme:
+
+```sh
+~/.zshrc
+nano .zshrc
+```
+
 ```sh
 ZSH_THEME="powerlevel10k/powerlevel10k"
 ```
